@@ -1,0 +1,24 @@
+{
+  "name": "codebarsess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db_build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missKatiaPunter/codebarsess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missKatiaPunter/codebarsess/issues"
+  },
+  "homepage": "https://github.com/missKatiaPunter/codebarsess#readme",
+  "dependencies": {
+    "env2": "^2.2.0",
+    "pg": "^7.4.1"
+  }
+}
